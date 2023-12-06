@@ -1,4 +1,4 @@
-module logs
+module github.com/xie-jin-wu/logs
 
 go 1.21
 
